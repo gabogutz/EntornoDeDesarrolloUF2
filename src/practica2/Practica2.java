@@ -15,7 +15,7 @@ public class Practica2 {
         notas notas = new notas();
         String[] argumentos = {"Argumentos"};
         notas.main(argumentos);
-        System.out.println("CAMBIO PARA GIT");
+        System.out.println("CAMBIO PARA GIT REMOTE");
     }
     
 }
